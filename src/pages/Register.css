@@ -1,0 +1,16 @@
+.register-container{
+    width: 40%;
+
+}
+
+.register-container h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.submit-button{
+    width: 100%;
+    margin-top: 10px;
+}
